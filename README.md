@@ -1,7 +1,7 @@
 # Menu-Driven-Program-in-C-using-Strings
 
 
-# Assignment 5: Menu-Driven String Operations in C
+Menu-Driven String Operations in C
 
 ## 1. Problem Statement
 
