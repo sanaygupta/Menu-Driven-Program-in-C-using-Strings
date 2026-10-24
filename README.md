@@ -1,7 +1,7 @@
 # Menu-Driven-Program-in-C-using-Strings
 
 
-Menu-Driven String Operations in C
+# Assignment 5: Menu-Driven String Operations in C
 
 ## 1. Problem Statement
 
@@ -280,6 +280,10 @@ The two broad categories are library functions and user-defined functions. Funct
 ### Q3. What are the different built-in string functions?
 
 Common string functions include `strlen()`, `strcpy()`, `strcat()`, `strcmp()`, `strchr()`, and `strstr()`. They are declared in `string.h` and are used to calculate string length, copy strings, concatenate strings, compare strings, and search for characters or substrings.
+
+## 9. Conclusion
+
+Thus, a menu-driven program was implemented successfully in C to perform various string operations using built-in string functions. This experiment helped develop an understanding of strings, library functions, loops, and conditional statements.
 
 ## 9. Conclusion
 
